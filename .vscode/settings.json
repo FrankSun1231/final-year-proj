@@ -1,0 +1,10 @@
+{
+    "terminal.integrated.cwd": "/home/dengweisun/Desktop/ws",
+    "files.exclude": {
+        "**/__pycache__": true,
+        "jetbot/": true,
+        "jetbot-ros2/": true,
+        "tps_ws/": true,
+    },
+    "explorer.autoReveal": false
+}
